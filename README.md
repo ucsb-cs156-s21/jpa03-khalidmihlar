@@ -1,6 +1,6 @@
 # jpa03-khalidmihlar
 
-Repo: https://ucsb-cs156-s21/jpa03-khalidmihlar
+Repo: https://github.com/ucsb-cs156-s21/jpa03-khalidmihlar
 
 On Heroku: https://jpa03-mkmihlar.herokuapp.com/
 
