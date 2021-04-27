@@ -2,7 +2,7 @@
 
 Repo: https://ucsb-cs156-s21/jpa03-khalidmihlar
 
-On Heroku: https://jpa03-khalidmihlar.herokuapp.com/
+On Heroku: https://jpa03-mkmihlar.herokuapp.com/
 
 On Codecov: https://app.codecov.io/gh/ucsb-cs156-s21/jpa03-khalidmihlar
 
