@@ -9,7 +9,6 @@ import org.springframework.context.annotation.PropertySource;
 @PropertySource(value = "classpath:secrets-localhost.properties", ignoreResourceNotFound = true)
 @SpringBootApplication
 public class DemoApplication {
-
   
   public static void main(String[] args) {
     SpringApplication.run(DemoApplication.class, args);
